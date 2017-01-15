@@ -1,0 +1,7 @@
+*.model
+input/*
+processed/*
+output/*
+.ipynb_checkpoints/*
+.idea/*
+.DS_store
